@@ -1,0 +1,5 @@
+C:/Users/Администратор/source/repos/lab2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Администратор/source/repos/lab2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Администратор/source/repos/lab2/out/build/x64-debug/Lab2/CMakeFiles/Lab2.dir
+C:/Users/Администратор/source/repos/lab2/out/build/x64-debug/Lab2/CMakeFiles/edit_cache.dir
+C:/Users/Администратор/source/repos/lab2/out/build/x64-debug/Lab2/CMakeFiles/rebuild_cache.dir
